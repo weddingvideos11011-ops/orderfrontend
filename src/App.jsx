@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { BrowserRouter, Link, Route, Routes, useNavigate, useParams, useSearchParams } from 'react-router-dom'
 import { ArrowRight, Building2, Check, ChevronLeft, ChevronRight, Mail, MapPin, Menu, PackageCheck, Phone, ShieldCheck, Sparkles, Store, Truck, X } from 'lucide-react'
-import './App.css'
+import 'App.css'
 import { getCategories, getCompanyInfo, getProduct, getProducts, login, submitContact, submitQuote } from './api'
 
 const companyName = 'Vvivers India Pvt Ltd'

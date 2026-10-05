@@ -1,4 +1,4 @@
-/*import { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import { BrowserRouter, Link, Route, Routes, useNavigate, useParams, useSearchParams } from 'react-router-dom'
 import { ArrowRight, Building2, Check, ChevronLeft, ChevronRight, Mail, MapPin, Menu, PackageCheck, Phone, ShieldCheck, Sparkles, Store, Truck, X } from 'lucide-react'
 import './App.css'
@@ -489,4 +489,4 @@ function App() {
 }
 
 export default App
-*/
+
